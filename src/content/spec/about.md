@@ -1,9 +1,23 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+<h1 align="left" >Hello world👋 </h1>
 
-::github{repo="saicaca/fuwari"}
-
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+- 🌱 I’m currently learning cyber security in UIT
+- 👯 A CTF player, specialize in crypography. 
+- 📝 Some stupid things I write: https://hackmd.io/@tvdat20004
+- 📝 Here you’ll find some my CTF writeups and other related things.
+<h1 align="left" >📫 How to reach me </h1>
+<ul>
+    <li>
+    Discord: tvdat20004#6840
+    </li>
+    <li>
+    <a href=https://facebook.com/tvdat20004>
+    Facebook
+    </a>
+    </li>
+    <li>
+    <a href=https://github.com/tvdat20004>
+    Github
+    </a>
+    </li>
+    
+</ul>
