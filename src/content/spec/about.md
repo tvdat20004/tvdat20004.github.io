@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning cyber security in UIT
 - 👯 A CTF player, specialize in crypography. 
 - 📝 Some stupid things I write: https://hackmd.io/@tvdat20004
-- 📝 Here you’ll find some my CTF writeups and other related things.
+- 📝 Here you can find some my CTF writeups and other related things.
 <h1 align="left" >📫 How to reach me </h1>
 <ul>
     <li>
