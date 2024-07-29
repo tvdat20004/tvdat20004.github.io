@@ -469,4 +469,5 @@ Và cái giá phải trả khi làm theo hướng unintended này là phải ch�
 
 ### Intended
 https://github.com/google/google-ctf/blob/main/2024/quals/crypto-mceliece/challenge/solve.sage
+
 Ref: https://arxiv.org/pdf/1307.6458
