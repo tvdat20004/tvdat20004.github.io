@@ -182,7 +182,14 @@ if __name__ == "__main__":
         exit(1)
 ```
 - This challenge, the author limits the length of query to 32, exactly equal to the number of values we need. 
-- After thinking a while, I realize that if we send -1 and 1 to get $f(1)$ and $f(-1)$, we can calculate $\sum_{i=2k}c_i*x^i = \frac{f(-1) +f(1)}{2}$, note that $-1$ and $1$ are the 2nd roots of unity in `GF(p)`. If we send 4th-roots of unity, we can see that $\sum_{i=4k}^{}c_i*x^i = \frac{f(x_1) +f(x_2) + f(x_3)+f(x_4)}{4}$
+- After thinking a while, I realize that if we send -1 and 1 to get $f(1)$ and $f(-1)$, we can calculate 
+$$
+\sum_{i=2k}c_i*x^i = \frac{f(-1) +f(1)}{2}
+$$
+note that $-1$ and $1$ are the 2nd roots of unity in `GF(p)`. If we send 4th-roots of unity, we can see that 
+$$
+\sum_{i=4k}^{}c_i*x^i = \frac{f(x_1) +f(x_2) + f(x_3)+f(x_4)}{4}
+$$
 - Therefore, my idea is sending 32nd-roots of unity in `GF(p)`, with the condition that $p-1$ must be divisible by 32. Then we calculate the value of $\frac{1}{32}\sum_{}^{}f(x_i)$ and "hope" that the flag is $c_0$.
 - Solve script:
 ```python

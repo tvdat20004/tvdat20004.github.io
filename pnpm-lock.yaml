@@ -51,6 +51,9 @@ importers:
       hastscript:
         specifier: ^9.0.0
         version: 9.0.0
+      katex:
+        specifier: ^0.16.11
+        version: 0.16.11
       markdown-it:
         specifier: ^14.1.0
         version: 14.1.0
@@ -73,7 +76,7 @@ importers:
         specifier: ^0.3.0
         version: 0.3.0
       rehype-katex:
-        specifier: ^7.0.0
+        specifier: ^7.0.1
         version: 7.0.1
       rehype-slug:
         specifier: ^6.0.0
