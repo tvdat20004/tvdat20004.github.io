@@ -1,5 +1,5 @@
 ---
-title: seccon.md
+title: SECCON 2024
 published: 2024-12-19
 description: ''
 image: '../logo/seccon_logo.png'
